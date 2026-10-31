@@ -1,0 +1,4 @@
+*.gcode
+*.3mf.bak
+.DS_Store
+Thumbs.db
